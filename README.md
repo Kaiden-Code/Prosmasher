@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image]Prosmasher/Capture.png)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](Prosmasher/Capture.png)
 
 ### Jekyll Themes
 
