@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image]Prosmasher/Capture.png)
 ```
 
-![Image](Prosmasher/Capture.png)
+![](Prosmasher/Capture.png)
 
 ### Jekyll Themes
 
